@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![My Website](https://maxino043.me)
+[My Website](https://maxino043.me)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/ud4aTTxDRM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxino043gaming@gmail.com) 
 
 # 💻 Tech Stack:
