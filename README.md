@@ -1,6 +1,6 @@
 # Hi, Im **maxino043**
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=500&lines=Discord Bot Maker;Roblox Scripts Maker" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+Norge&size=30&pause=999&color=F756D9&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Discord+Technic;Roblox+Dev;Developer" alt="Typing SVG" /></a>
 </div>
 
 # 💫 About Me:
