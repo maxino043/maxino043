@@ -1,3 +1,8 @@
+# Hi, Im **maxino043**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=500&lines=Discord Bot Maker;Roblox Scripts Maker" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 🔭 Currently building **SecurityCore** – advanced Discord security & moderation bot  
 🤖 Focused on Discord bots, automation & backend systems  
